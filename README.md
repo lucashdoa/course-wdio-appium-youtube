@@ -5,8 +5,8 @@
 
 # Summary
 
-- [ ] Lesson 01
-- [ ] Lesson 02
+- [X] Lesson 01 - Setup Environment
+- [X] Lesson 02 - Setup Device and Appium Desktop
 - [ ] Lesson 03
 - [ ] Lesson 04
 - [ ] Lesson 05
